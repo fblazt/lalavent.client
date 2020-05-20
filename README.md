@@ -18,7 +18,7 @@
 - [Requirements](#requirements)
 - [Usage](#usage-for-development)
 - [Create Environment Variable](#create-environment-variable)
-- [Screenshots] (#screenshots)
+- [Screenshots](#screenshots)
 - [Contributing](#contributing)
 - [Related Project](#related-project-backend)
 - [Contributors](#contributors)
